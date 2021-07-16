@@ -29,8 +29,8 @@ Chương trình có các chức năng sau:
   
   ## Những lưu ý cần tối ưu
   - Cần làm lại đọc ghi file ( đọc ghi file tạo quá nhiều file, nên gộp lại)
-  - Khi thêm câu hỏi thi thì có thêm lựa chọn môn thay vì ghi
-  - Phần random number cho ID cây nhị phân ý tưởng đã đúng nhưng làm nhiều bước, loại bỏ những không cần thiết
+  - Khi thêm câu hỏi thi thì có thêm lựa chọn môn thay vì ghi tên môn đó (trường hợp người dùng không nhớ mã lớp)
+  - Phần random number cho ID cây nhị phân ý tưởng đã đúng nhưng làm nhiều bước, loại bỏ những bước không cần thiết
   - Lúc thi cần show tên sinh viên và môn thi 
   
   ## Những hình ảnh trong đồ án
