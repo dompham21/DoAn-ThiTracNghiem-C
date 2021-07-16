@@ -1,0 +1,104 @@
+4709
+KTMT
+Mode dia chi ngan xep la mode
+Toan hang duoc ngam hieu
+Toan hang la ngan nho dinh ngan xep
+A va B sai
+A va B dung
+D
+9290
+KTMT
+Phat bieu nao la sai doi voi thanh ghi
+Chua cac thong tin tam thoi
+La muc dau tien cua he thong nho
+Nam trong bo xu ly
+Nguoi lap trinh co the thay doi noi dung thanh ghi
+D
+13757
+KTMT
+He thong vao ra cua may tinh bao gom dong thoi cac thiet bi sau:
+CD ROM, dia tu
+Man hinh, RAM, may in
+CPU, chuot, may quet anh
+RAM, ROM, cac thanh ghi
+D
+18032
+KTMT
+Phat biet nao la dung voi cac thanh ghi dia chi
+Chi co 1 loai
+Chi co 2 loai
+Co it nhat 3 loai
+Co nhieu nhat 3 loai
+C
+22519
+KTMT
+Phat bieu nao sau la dung voi khoi Alu
+Thuc hien cac phep toana so hoc
+Thuc hien cac phep toan logic
+Ca A va B
+Khong co dap an dung
+C
+26751
+KTMT
+Trong may tinh, ngat NMI la gi?
+Ngat ngoai le khong chan duoc
+Ngat mem khong chan duoc
+Ngat cung khong chan duoc
+Ngan mem chan duoc
+C
+31091
+DS
+Song anh la gi?
+La gom nhieu anh xa don anh
+La anh xa toan anh
+La 2 anh xa don anh
+La anh xa vua don anh vua toan anh
+D
+54479
+T
+Dasdssaa
+Fsdfsd
+Fsdfs
+Gsdfg
+Gfd
+A
+59033
+DS
+He phuong trinh tuyen tinh tong quat vo nghim khi nao?
+R(A) > R(A_BS)
+R(A) = R(A_BS)
+R(A) < R(A_BS)
+He phuong trinh luon co nghiem
+C
+68120
+KTMT
+Doi voi ngan xep stack, phat bieu nao la sai
+La vung nho co cau truc FIFO
+La vung nho co cau truc LIFO
+Con tro ngan xep luon tro vao dinh ngan xep
+Khi cat them thong ti vao ngan xep, con tro ngan xep giam
+A
+63425
+KTMT
+Tt
+F
+Sfa
+Fasdfs
+Gs
+D
+76621
+DS
+So nghiem cua he phuong trinh tuyen tinh tong quat la
+He vo nghiem
+He co nghiem duy nhat
+He co vo so nghiem
+Ca 3 dap an tren
+D
+72383
+KTMT
+1+2 = ?
+1
+2
+3
+4
+C

@@ -1,0 +1,109 @@
+N19DCCN019
+1
+KTMT
+5
+4
+18032
+Phat biet nao la dung voi cac thanh ghi dia chi
+Chi co 1 loai
+Chi co 2 loai
+Co it nhat 3 loai
+Co nhieu nhat 3 loai
+C
+C
+13757
+He thong vao ra cua may tinh bao gom dong thoi cac thiet bi sau:
+CD ROM, dia tu
+Man hinh, RAM, may in
+CPU, chuot, may quet anh
+RAM, ROM, cac thanh ghi
+D
+A
+22519
+Phat bieu nao sau la dung voi khoi Alu
+Thuc hien cac phep toana so hoc
+Thuc hien cac phep toan logic
+Ca A va B
+Khong co dap an dung
+C
+C
+9290
+Phat bieu nao la sai doi voi thanh ghi
+Chua cac thong tin tam thoi
+La muc dau tien cua he thong nho
+Nam trong bo xu ly
+Nguoi lap trinh co the thay doi noi dung thanh ghi
+D
+C
+N19DCCN034
+2
+KTMT
+2.86
+7
+26751
+Trong may tinh, ngat NMI la gi?
+Ngat ngoai le khong chan duoc
+Ngat mem khong chan duoc
+Ngat cung khong chan duoc
+Ngan mem chan duoc
+C
+A
+13757
+He thong vao ra cua may tinh bao gom dong thoi cac thiet bi sau:
+CD ROM, dia tu
+Man hinh, RAM, may in
+CPU, chuot, may quet anh
+RAM, ROM, cac thanh ghi
+D
+C
+22519
+Phat bieu nao sau la dung voi khoi Alu
+Thuc hien cac phep toana so hoc
+Thuc hien cac phep toan logic
+Ca A va B
+Khong co dap an dung
+C
+C
+18032
+Phat biet nao la dung voi cac thanh ghi dia chi
+Chi co 1 loai
+Chi co 2 loai
+Co it nhat 3 loai
+Co nhieu nhat 3 loai
+C
+C
+68120
+Doi voi ngan xep stack, phat bieu nao la sai
+La vung nho co cau truc FIFO
+La vung nho co cau truc LIFO
+Con tro ngan xep luon tro vao dinh ngan xep
+Khi cat them thong ti vao ngan xep, con tro ngan xep giam
+A
+C
+9290
+Phat bieu nao la sai doi voi thanh ghi
+Chua cac thong tin tam thoi
+La muc dau tien cua he thong nho
+Nam trong bo xu ly
+Nguoi lap trinh co the thay doi noi dung thanh ghi
+D
+B
+4709
+Mode dia chi ngan xep la mode
+Toan hang duoc ngam hieu
+Toan hang la ngan nho dinh ngan xep
+A va B sai
+A va B dung
+D
+C
+T
+10
+1
+54479
+Dasdssaa
+Fsdfsd
+Fsdfs
+Gsdfg
+Gfd
+A
+A
